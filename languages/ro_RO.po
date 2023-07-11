@@ -1,0 +1,403 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WordPress.com - Themes - Exmoor\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-07-05T02:08:44+00:00\n"
+"PO-Revision-Date: 2023-07-05 02:08:38+0000\n"
+"Language: ro\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+
+#: patterns/footer.php:50
+msgid "Designed with %1$s"
+msgstr "Proiectat cu %1$s"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Double Extra Large"
+msgstr "Foarte mare dublu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Triple Extra Large"
+msgstr "Foarte mare triplu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr "Foarte mare"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediu"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Mare"
+
+#: patterns/heading-table.php:27
+msgid "Jordan"
+msgstr "Iordania"
+
+#: patterns/masthead.php:28
+#: patterns/paragraph.php:17
+msgid "Explore Our Offers"
+msgstr "Descoperă ofertele noastre"
+
+#: patterns/no-results-content.php:9
+msgctxt "Message explaining that there are no results returned from a search"
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Regret, dar nu s-a potrivit nimic cu termenii tăi de căutare. Te rog încearcă din nou cu alte cuvinte cheie."
+
+#: patterns/small-heading-quote.php:15
+msgid "What People Say"
+msgstr "Ce spune lumea"
+
+#: styles/eucalyptus.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr "Bază"
+
+#: styles/eucalyptus.json
+#: theme.json
+msgctxt "Color name"
+msgid "Contrast"
+msgstr "Contrast"
+
+#: styles/eucalyptus.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Principală"
+
+#: styles/eucalyptus.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr "Secundară"
+
+#: styles/eucalyptus.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr "Terță"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "1"
+msgstr "1"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr "2"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "3"
+msgstr "3"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr "4"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "5"
+msgstr "5"
+
+#: theme.json
+msgctxt "Space size name"
+msgid "6"
+msgstr "6"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Foarte mic"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Mic"
+
+#: patterns/search.php:9
+msgctxt "This is a placeholder text in a search field"
+msgid "Search..."
+msgstr "Căutare..."
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Caută"
+
+#: patterns/no-results-content.php
+msgctxt "Pattern title"
+msgid "No Results Content"
+msgstr "Nu am găsit conținut"
+
+#: patterns/small-heading-quote.php:26
+msgid "— William & Megan James"
+msgstr "- William și Megan James"
+
+#: patterns/small-heading-quote.php:22
+msgid "&ldquo;We booked our honeymoon with Exmoor, and it was simply incredible. They took care of everything, even our packing list. Thank you!&rdquo;"
+msgstr "Ne-am rezervat luna de miere la Exmoor și a fost pur și simplu incredibil. S-au ocupat de toate, chiar și de lista noastră pentru bagaje. Mulțumim!&rdquo;"
+
+#: patterns/small-heading-quote.php
+msgctxt "Pattern title"
+msgid "Small Heading and a Quote"
+msgstr "Titlu mic și un citat"
+
+#: patterns/paragraph.php
+msgctxt "Pattern title"
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: patterns/masthead.php
+msgctxt "Pattern title"
+msgid "Masthead"
+msgstr "Titlu principal"
+
+#: patterns/hero.php:24
+msgid "—Anthony Bourdain"
+msgstr "- Anthony Bourdain"
+
+#: patterns/hero.php
+msgctxt "Pattern title"
+msgid "Hero"
+msgstr "Hero"
+
+#: patterns/heading-table.php:27
+msgid "Mon, 5 Aug – Mon, 12 Aug"
+msgstr "Luni, 5 august - Luni, 12 august"
+
+#: styles/eucalyptus.json
+msgctxt "Style variation name"
+msgid "Eucalyptus"
+msgstr "Eucalipt"
+
+#: patterns/heading-table.php:27
+msgid "Details"
+msgstr "Detalii"
+
+#: patterns/heading-table.php:27
+msgid "Iceland"
+msgstr "Islanda"
+
+#: patterns/heading-table.php:27
+msgid "Max. 10 people"
+msgstr "Maxim 10 persoane"
+
+#: patterns/heading-table.php:27
+msgid "Tue, 15 July – Sun, 20 July"
+msgstr "Marți, 15 iulie - Duminică, 20 iulie"
+
+#: patterns/heading-table.php:27
+msgid "Kenya, Tanzania"
+msgstr "Kenya, Tanzania"
+
+#: patterns/heading-table.php:27
+msgid "Zanzibar to Nairobi"
+msgstr "De la Zanzibar la Nairobi"
+
+#: patterns/heading-table.php:27
+msgid "Max. 12 people"
+msgstr "Maxim 12 persoane"
+
+#: patterns/heading-table.php:27
+msgid "Mon 5 Jun – Mon, 12 Jun"
+msgstr "Luni, 5 iunie - Luni, 12 iunie"
+
+#: patterns/heading-table.php:27
+msgid "Indochina"
+msgstr "Indochina"
+
+#: patterns/heading-table.php:27
+msgid "Real Food Adventure"
+msgstr "O adevărată aventură culinară"
+
+#: patterns/heading-table.php:27
+msgid "Max. 8 people"
+msgstr "Maxim 8 persoane"
+
+#: patterns/heading-table.php:27
+msgid "Iceland&lsquo;s Golden Circle"
+msgstr "Cercul de Aur al Islandei"
+
+#: patterns/heading-table.php:27
+msgid "Jordan Discovery"
+msgstr "Descoperă Iordania"
+
+#: patterns/heading-table.php:27
+msgid "Destination"
+msgstr "Destinație"
+
+#: patterns/heading-table.php:27
+msgid "Period"
+msgstr "Punct"
+
+#: patterns/heading-table.php:27
+msgid "Group"
+msgstr "Grup"
+
+#: patterns/heading-table.php
+msgctxt "Pattern title"
+msgid "Heading and Table"
+msgstr "Titlu și tabel"
+
+#: patterns/heading-paragraph-four-columns.php:109
+msgid "Thu, 13 Jul – Wed, 19 Jul"
+msgstr "Joi, 13 iulie - Miercuri, 19 iulie"
+
+#: patterns/heading-paragraph-four-columns.php:105
+msgid "Newquay"
+msgstr "Newquay"
+
+#: patterns/heading-paragraph-four-columns.php:81
+msgid "Noordhoek Beach"
+msgstr "Plaja Noordhoek"
+
+#: patterns/heading-paragraph-four-columns.php:61
+msgid "Thu 25 June  – Tue, 30 June"
+msgstr "Joi, 25 iunie - Marți, 30 iunie"
+
+#: patterns/heading-paragraph-four-columns.php:57
+msgid "The French Riviera"
+msgstr "Riviera franceză"
+
+#: patterns/heading-paragraph-four-columns.php:43
+#: patterns/heading-paragraph-four-columns.php:67
+#: patterns/heading-paragraph-four-columns.php:91
+#: patterns/heading-paragraph-four-columns.php:115
+#: patterns/heading-table.php:27
+msgid "Full Details"
+msgstr "Detalii complete"
+
+#: patterns/heading-table.php:13
+msgid "Deals"
+msgstr "Oferte"
+
+#: patterns/heading-paragraph-four-columns.php:37
+#: patterns/heading-paragraph-four-columns.php:85
+#: patterns/heading-table.php:27
+msgid "Thu 25 Sep  – Tue, 30 Sep"
+msgstr "Joi, 25 septembrie - Marți, 30 septembrie"
+
+#: patterns/heading-table.php:27
+msgid "Tour Name"
+msgstr "Nume excursie"
+
+#: patterns/heading-table.php:21
+msgid "Take advantage of our last-minute offer and start preparing for an unforgettable vacation that will leave you with a lifetime of memories."
+msgstr "Profită de oferta noastră de ultimă oră și începe să te pregătești pentru o vacanță de neuitat care îți va lăsa amintiri pentru toată viața."
+
+#: patterns/call-to-action.php:11
+msgid "Exclusive Offer"
+msgstr "Ofertă exclusivă"
+
+#: patterns/call-to-action.php:25
+msgid "Find out more"
+msgstr "Află mai mult"
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Default footer"
+msgstr "Subsol implicit"
+
+#. Translators: WordPress link.
+#: patterns/footer.php:48
+msgid "https://wordpress.org"
+msgstr "https://wordpress.org"
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Default header"
+msgstr "Antet implicit"
+
+#: patterns/heading-paragraph-four-columns.php:33
+msgid "Muscat"
+msgstr "Muscat"
+
+#: patterns/heading-paragraph-four-columns.php:13
+msgid "Upcoming<br>Tours"
+msgstr "Excursii<br>viitoare"
+
+#: patterns/heading-paragraph-four-columns.php
+msgctxt "Pattern title"
+msgid "Heading, Paragraph, and Four Columns"
+msgstr "Titlu, paragraf și patru coloane"
+
+#: patterns/front-page.php
+msgctxt "Pattern title"
+msgid "front-page"
+msgstr "pagina din față"
+
+#: patterns/footer.php:22
+msgctxt "tel number"
+msgid "01234567890"
+msgstr "01234567890"
+
+#: patterns/footer.php:18
+msgid "3 Cottage Rd, Exford,<br>Minehead SA12 7TG"
+msgstr "3 Cottage Rd, Exford,<br>Minehead SA12 7TG"
+
+#: patterns/call-to-action.php:19
+msgid "Book with us your first trip today and receive an exclusive offer."
+msgstr "Rezervă azi prima ta excursie cu agenția noastră și primești o ofertă exclusivă."
+
+#: patterns/call-to-action.php:15
+msgid "Get 20% Off<br>your first trip"
+msgstr "Ai o reducere de 20%<br>la prima excursie"
+
+#: patterns/call-to-action.php
+msgctxt "Pattern title"
+msgid "Call to Action"
+msgstr "Îndemn la acțiune"
+
+#. Author URI of the theme
+msgid "https://automattic.com/"
+msgstr "https://automattic.com/"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "A 404 page"
+msgstr "O pagină 404"
+
+#: patterns/404.php:9
+msgid "Oops! That page can’t be found."
+msgstr "Hopa! Acea pagină nu poate fi găsită."
+
+#: patterns/404.php:13
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Se pare că nu am găsit nimic la această locație. Încerci o nouă căutare?"
+
+#. Author of the theme
+msgid "Automattic"
+msgstr "Automattic"
+
+#. Description of the theme
+msgid "Exmoor is a business theme"
+msgstr "Exmoor este o temă pentru afaceri"
+
+#. Theme URI of the theme
+msgid "https://wordpress.com/theme/exmoor/"
+msgstr "https://wordpress.com/theme/exmoor/"
+
+#. Theme Name of the theme
+msgid "Exmoor"
+msgstr "Exmoor"
