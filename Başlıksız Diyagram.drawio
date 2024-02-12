@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-04T18:29:29.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="f23SUGoquLfQnAk3EQW0" version="23.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-12T15:40:26.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="8Moo7PdU-Zp3PLn_kRp-" version="23.1.1" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="800" pageHeight="600" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -271,7 +271,7 @@
         <mxCell id="rdZqMUuOVoU_5vOU-umY-36" value="EBYTE E220-900T30S" style="rounded=1;whiteSpace=wrap;html=1;arcSize=25;fillColor=#e1d5e7;strokeColor=#9673a6;fontFamily=Calibri;fontSize=15;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="620" y="520" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="rdZqMUuOVoU_5vOU-umY-37" value="ENTACORE AIM3" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Calibri;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rdZqMUuOVoU_5vOU-umY-37" value="STM32F411CEU6" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontFamily=Calibri;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="550" y="460" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="rdZqMUuOVoU_5vOU-umY-38" value="SD CARD" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#d5e8d4;strokeColor=#82b366;fontFamily=Calibri;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
